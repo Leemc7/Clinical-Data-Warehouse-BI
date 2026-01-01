@@ -1,6 +1,5 @@
 # 🏥 Clinical Data Warehouse & BI System  
 **Dimensional Data Warehouse and Business Intelligence Project (MIMIC-IV)**
- Clinical Data Warehouse and BI project for healthcare analytics, built on MIMIC-IV using dimensional modeling and analytical SQL. 
 ---
 
 ## 📦 Project Description
